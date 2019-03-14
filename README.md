@@ -1,6 +1,8 @@
-#Instructions on Using Wordpress Theme in localhost
+Instructions on Using Wordpress Theme in localhost
+===
 
-##Setup
+Setup
+======
 
 *Download XAMMP onto youm MAC or PC, and follow the setup wizard
 
@@ -19,6 +21,7 @@
 *On your browser window type "localhost/wordpress" (The browser will prompt you to setup Wordpress)
 
 *After you selected your language of preferance, type in the following and click "Submit":
+
  Database name: name_of_your_database
 
  Username: anyusername
@@ -49,7 +52,8 @@ Search Engine Visibility: Discourage search engines from indexing the site(Optio
 
 *Enter your username and password
 
-##Download and Install Custom Theme
+Download and Install Custom Theme
+======
 
 *On the "\xampp\htdocs\wordpress2\wp-content\themes\" enter the name of custom theme
 
