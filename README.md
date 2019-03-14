@@ -36,8 +36,7 @@ Site Title: yoursitetitle
 Username: yourusername  
 Password: yourpassword  
 Your Email: youremail  
-
-Search Engine Visibility: Discourage search engines from indexing the site(Optional)
+Search Engine Visibility: Discourage search engines from indexing the site(Optional)  
 
 *Click "Install Wordpress"
 
