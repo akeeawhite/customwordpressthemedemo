@@ -22,27 +22,20 @@ Setup
 
 *After you selected your language of preferance, type in the following and click "Submit":
 
- Database name: name_of_your_database
-
- Username: anyusername
-
- Password: none
-
- Database Host: localhost
-
- Table Prefix: wp_
+Database name: name_of_your_database  
+Username: anyusername  
+Password: none  
+Database Host: localhost  
+Table Prefix: wp_  
 
 *Select "Run the Installation"
 
 *On the next page, enter the following information:
 
-Site Title: yoursitetitle
-
-Username: yourusername
-
-Password: yourpassword
-
-Your Email: youremail
+Site Title: yoursitetitle  
+Username: yourusername  
+Password: yourpassword  
+Your Email: youremail  
 
 Search Engine Visibility: Discourage search engines from indexing the site(Optional)
 
